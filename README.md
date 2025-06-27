@@ -8,4 +8,5 @@ Mengoptimalkan portofolio pinjaman dengan menyeimbangkan pertumbuhan bisnis dan 
 2. Mempertahankan Layanan Nasabah: Meminimalkan False Positives (nasabah layak yang diprediksi berisiko) melalui Precision yang optimal untuk kasus gagal bayar.
 
 **Dataset**
+
 ![image](https://github.com/user-attachments/assets/b5249aa6-b046-47e3-ac43-09eed14464e5)
